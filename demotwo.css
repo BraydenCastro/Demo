@@ -17,6 +17,7 @@ body {
   position: relative;
   top: 250px;
   right: 200px;
+  left: 400px;
   display: flex;
   flex-direction: column;
   width: 300px;
