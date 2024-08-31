@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(beegsmg4.png);
+  background-repeat: repeat-x;
+  background-position: 420px 100px;
+  display: flex;
+  height: 100vh;
+  align-content: center;
+  justify-content: center;
+}
+.box {
+  position: relative;
+  top: 250px;
+  right: 200px;
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  height: fit-content;
+  background-color: cyan;
+  padding: 15px;
+  border: 1px solid red;
+  border-radius: 5px;
+}
+input {
+  margin: 5px 0px;
+  height: 35px;
+  border: 1px solid wheat;
+  border-radius: 5px;
+  padding: 7px;
+  background-color: lightblue;
+}
+
+button {
+  height: 35px;
+  background-color: red;
+  margin: 5px 0px;
+  border: none;
+  border-radius: 5px;
+  color: brown;
+}
+.butcolor {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: aliceblue;
+}
+button:hover {
+  background-color: greenyellow;
+  color: black;
+}
+
+h2 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
