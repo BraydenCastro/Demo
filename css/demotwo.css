@@ -6,8 +6,8 @@
 
 body {
   background-image: url(beegsmg4.png);
-  background-repeat: repeat-x;
-  background-position: 420px 100px;
+  background-repeat: repeat-y;
+  /* background-position: 420px 100px; */
   display: flex;
   height: 100vh;
   align-content: center;
